@@ -1,5 +1,7 @@
 # hero_chassis_controller
 
+这是我根据rm_description_for_task包和simple_chassis_controller包结合ai学习仿照其内容和写法编写的包
+
 英雄机器人底盘控制器的 ROS 包。**当前是最小可运行骨架**：能编译、能运行、能打印日志，
 还没有开始写控制逻辑。
 
