@@ -1,0 +1,14 @@
+# catkin 编译产物
+build/
+devel/
+install/
+logs/
+
+# CLion 的本地配置
+.idea/
+cmake-build-*/
+
+# 编辑器临时文件
+.vscode/
+*.swp
+*~

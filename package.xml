@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>hero_chassis_controller</name>
+  <version>0.1.0</version>
+  <description>英雄机器人底盘控制器，当前为最小可运行骨架。</description>
+
+  <maintainer email="980813246@qq.com">DK7chEy</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>roslint</depend>
+</package>
