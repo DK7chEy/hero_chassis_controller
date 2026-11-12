@@ -45,6 +45,10 @@ rosrun hero_chassis_controller hero_chassis_controller
 | `.gitignore` | 不把 `build/`、`devel/`、CLion 本地配置提交进仓库 |
 | `LICENSE` | BSD-3-Clause |
 
+## 后续计划
+
+- 写控制器类，让四个轮子动起来
+
 ## 代码规范
 
 ```bash
