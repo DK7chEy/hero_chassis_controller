@@ -1,5 +1,4 @@
 ---
-# ROS C++ Style Guide：基于 Google 风格，120 列，大括号独占一行（cpplint 的要求）
 Language: Cpp
 BasedOnStyle: Google
 ColumnLimit: 120
