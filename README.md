@@ -47,7 +47,7 @@ rosrun hero_chassis_controller hero_chassis_controller
 
 ## 后续计划
 
-- 写控制器类，让四个轮子动起来
+- 写控制器类，先用逆运动学算出四个轮子的转速
 
 ## 代码规范
 
